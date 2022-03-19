@@ -1,9 +1,9 @@
 <?php
     class Database {
         //DB Params
-        private $host = 'localhost';
-        private $db_name = 'quotesdb';
-        private $username = 'root';
+        private $host = 'acw2033ndw0at1t7.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+        private $db_name = 'f93h1qjc7jbuh4ux';
+        private $username = 'tp4a8htat23uu52s';
         private $password = '';
         private $conn;
 
